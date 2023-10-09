@@ -1,0 +1,11 @@
+Truman Foster 3.5 14 Gold Smith True
+Jeffery Phillips 3.7 16 Silver Bozeman False
+Brendon Barry 3.0 12 Gold Germain True
+Sally May 3.7 15 Gold Callaway True
+Charles Adams 3.8 16 Bronze Sheldon True
+Cal Sullivan 2.8 13 Bronze Wolfe False
+Amanda Gaddis 2.98 15 Bronze Auer False
+Korbin Deryck 3.6 14 Gold Terris False
+April Lewis 2.6 12 Silver Liang True
+Normand Grayson 2.9 12 Silver Benson True
+Dan Merrit 1.87 18 Silver OConnor False
